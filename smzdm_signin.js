@@ -2,7 +2,7 @@
 SMZDM_COOKIE 什么值得买Cookie 多个 &区分
 什么值得买自动签到任务
 */
-const smzdmCookieKey = "smzdm_cookie";
+const smzdmCookieKey ="__ckguid=xglLN3uiLfcTT2QXL14ub; r_sort_type=score; __jsluid_s=fb3c2fe3a501704909bd5162d823de31; smzdm_user_source=A78DACA757FFCA6FF6FBC0D83EB84DAC; sess=AT-zq0KOoQO8fs3hABeg2/OgV+/DuwQdWdIhTy0Fx9S5oRrPw0gM5Eb5Lc1XUp5PvQTa1oYnu03XGJ/jK7e4TwByQKSJMjDHvTjHLxh9DPqbyk4kk7j6eY+/UVa; user=user:1621185143|1621185143; smzdm_id=1621185143; shequ_pc_sug=b; footer_floating_layer=0; smzdm_user_view=B598A18F4654DE4992049CE1A9BCA087; __jsluid_h=4e7c834e9e825ab8fb34eebb4d19760a; ss_ab=ss86; userId=user:1621185143|1621185143; zdm_qd={"referrer":"https://www.bing.com/"}; ad_date=8; ad_json_feed={}; Hm_lvt_9b7ac3d38f30fe89ff0b8a0546904e58=1636102559,1636244996,1636253109,1636336023; s_his=京东云无线宝,京东云路由器,wifi6 鲁班,docker onlyoffice,docker 轻量笔记 博客,docker 轻量笔记,docker 轻量,typecho,ghost博客,adguard home; device_id=372184626416363617785748357e057c8395a3fb945ec7e81d3869919c; DISABLE_APP_TIP=1; homepage_sug=c; _zdmA.vid=*; sensorsdata2015jssdkcross={"distinct_id":"1621185143","first_id":"17abca0028893-058b219dba81ec-7a697f69-1440000-17abca0028950d","props":{"$latest_traffic_source_type":"自然搜索流量","$latest_search_keyword":"未取到值","$latest_referrer":"https://www.google.com/","$latest_landing_page":"https://www.smzdm.com/"},"$device_id":"17abca0028893-058b219dba81ec-7a697f69-1440000-17abca0028950d"}; _zdmA.uid=ZDMA.PpJgOrUP-.1636361992.2419200; bannerCounter=[{"number":0,"surplus":1},{"number":0,"surplus":4},{"number":3,"surplus":1},{"number":3,"surplus":1},{"number":3,"surplus":1},{"number":3,"surplus":1}]; _zdmA.time=1636361995753.0.https://www.smzdm.com/";
 const scriptName = "什么值得买";
 let clickGoBuyMaxTimes = 12; // 好价点击去购买的次数
 let clickLikeProductMaxTimes = 7; // 好价点值次数
